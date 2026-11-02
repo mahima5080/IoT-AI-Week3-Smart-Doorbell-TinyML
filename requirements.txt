@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+tflite-runtime
+pillow
+numpy
+streamlit
+pandas
